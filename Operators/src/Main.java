@@ -62,5 +62,16 @@ public class Main {
 
         boolean wasCar = isCar ? true : false;
         System.out.println(wasCar);
+
+        double num0ne = 20.00d;
+        double numTwo = 80.00d;
+        double product = (num0ne + numTwo) * 100.00d;
+        double remainder = product % 40.00d;
+        boolean isZero = remainder == 0 ? true : false;
+
+        if (!isZero) {
+            System.out.println("Got Some Remainder " + remainder);
+        }
+
     }
 }
