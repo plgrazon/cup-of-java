@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/10_EqualSumChecker/10_EqualSumChecker.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/10_EqualSumChecker/10_EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/11_TeenNumberChecker/11_TeenNumberChecker.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/11_TeenNumberChecker/11_TeenNumberChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/12_MethodOverloading/12_MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/12_MethodOverloading/12_MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/13_SecondsAndMinutes/13_SecondsAndMinutes.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/13_SecondsAndMinutes/13_SecondsAndMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/DataTypesOperators/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/1_KeywordsAndExpressions/1_KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/1_KeywordsAndExpressions/1_KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowStatements/1_Switch/1_Switch.iml" filepath="$PROJECT_DIR$/ControlFlowStatements/1_Switch/1_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowStatements/2_DayOfTheWeekChallenge/2_DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/ControlFlowStatements/2_DayOfTheWeekChallenge/2_DayOfTheWeekChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/2_StatementsWhiteSpaceAndIndenting/2_StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/2_StatementsWhiteSpaceAndIndenting/2_StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/2_Strings/2_Strings.iml" filepath="$PROJECT_DIR$/DataTypesOperators/2_Strings/2_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/3_FloatAndDouble/3_FloatAndDouble.iml" filepath="$PROJECT_DIR$/DataTypesOperators/3_FloatAndDouble/3_FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/3_IfKeywordAndCodeBlocks/3_IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/3_IfKeywordAndCodeBlocks/3_IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowStatements/3_NumberInWord/3_NumberInWord.iml" filepath="$PROJECT_DIR$/ControlFlowStatements/3_NumberInWord/3_NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/4_CharAndBoolean/4_CharAndBoolean.iml" filepath="$PROJECT_DIR$/DataTypesOperators/4_CharAndBoolean/4_CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/4_Methods/4_Methods.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/4_Methods/4_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/5_ByteShortIntLong/5_ByteShortIntLong.iml" filepath="$PROJECT_DIR$/DataTypesOperators/5_ByteShortIntLong/5_ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/5_SpeedConverter/5_SpeedConverter.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/5_SpeedConverter/5_SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/6_MegaBytesConverter/6_MegaBytesConverter.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/6_MegaBytesConverter/6_MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/6_Operators/6_Operators.iml" filepath="$PROJECT_DIR$/DataTypesOperators/6_Operators/6_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/7_BarkingDog/7_BarkingDog.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/7_BarkingDog/7_BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesOperators/7_PrimitiveTypesChallenge/7_PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/DataTypesOperators/7_PrimitiveTypesChallenge/7_PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/8_LeapYear/8_LeapYear.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/8_LeapYear/8_LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/9_DecimalComparator/9_DecimalComparator.iml" filepath="$PROJECT_DIR$/MethodsStatementsExpressionsCodeBlocks/9_DecimalComparator/9_DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cup-of-java.iml" filepath="$PROJECT_DIR$/.idea/cup-of-java.iml" />
+    </modules>
+  </component>
+</project>
