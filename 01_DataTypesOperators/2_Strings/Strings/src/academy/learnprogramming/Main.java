@@ -2,14 +2,15 @@ package academy.learnprogramming;
 
 public class Main {
     public static void main(String[] args) {
-        // byte
-        // short
-        // int
-        // long
-        // float
-        // double
-        // char
-        // boolean
+        // Primitive Types: | Wrapper Class
+        // byte | Byte
+        // short | Short
+        // int | Integer
+        // long | Long
+        // float | Float
+        // double | Double
+        // char | Character
+        // boolean | Boolean
         String myString = "hello " + " world";
         System.out.println(myString);
         String myTradeMark = "\u00A9 2022";

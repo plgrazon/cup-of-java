@@ -15,6 +15,7 @@ public class Main {
             System.out.println("You got the high score!");
             score = 0;
         }
+        // An expression is a coding `construct that evaluates to a single value`
         // Expressions:
         // score = 100
         // score > 99
